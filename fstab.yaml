@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "http://localhost:4502/bin/franklin.delivery/arunpapena/first-universal-editor/main"
+    url: "https://author-p34468-e129107.adobeaemcloud.com/bin/franklin.delivery/arunpapena/first-universal-editor/main"
     type: "markup"
     suffix: ".html"
